@@ -1,0 +1,69 @@
+body {
+    background-image: url(temp1.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    border: 20px solid red;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 10%;
+
+}
+
+.converter {
+    display: inline-block;
+    margin: 0% 0% 0% 43.5%;
+}
+
+#value {
+    margin: 5% 0% 0% 34%;
+    border: 2px solid black;
+    width: 10%;
+}
+
+#button {
+    margin: 3% 0% 0% 3%;
+    border: 2px solid black;
+    width: 5%;
+    padding: 5px;
+}
+
+#button:hover {
+    background-color: red;
+}
+
+#result {
+    display: inline-block;
+    border: 2px solid black;
+    width: 140px;
+    height: 17px;
+    background-color: white;
+    margin: 0% 0% 0% 3%;
+}
+
+p {
+    margin-top: 5%;
+    text-align: center;
+    font-size: large;
+}
+
+#clear {
+    margin: 3% 0% 14% 45%;
+    border: 2px solid black;
+    width: 10%;
+    padding: 5px;
+}
+
+#clear:hover {
+    background-color: red;
+}
+
+#option1 {
+    border: 2px solid black;
+}
+
+#option2 {
+    border: 2px solid black;
+}
